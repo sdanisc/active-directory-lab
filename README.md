@@ -12,7 +12,7 @@ In this lab, I walked through how to create an Active Directory (AD) home lab en
 <h2>Languages and Utilities Used</h2>
 
 - <b>PowerShell</b> 
-- <b>Oracle Virtual Box</b>
+- <b>Oracle VM Virtual Box</b>
 
 <h2>Environments Used </h2>
 
