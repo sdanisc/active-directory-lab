@@ -23,39 +23,27 @@ In this lab, I walked through how to create an Active Directory (AD) home lab en
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Creating Users With PowerShell:  <br/>
-<img src="https://i.imgur.com/LoXy4lz.png" height="80%" width="80%" alt="Creating Users With PowerShell"/>
-<br />
-
-<!--
 Installing Windows Server 2019: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/XWAzPZ0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Configuring Domain Controller (DC):  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2eW7KXh.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Defining DHCP Scope: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Creating Organizational Unit: <br/>
+<img src="https://i.imgur.com/CsMta4P.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Configuring DNS:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Configuring Routing and Remote Access:  <br/>
+<img src="https://i.imgur.com/MlZbTcT.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Creating Users With PowerShell:  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Configuring DHCP:  <br/>
+<img src="https://i.imgur.com/KEXPaBZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Testing User Login:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-The End:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
---!>
 
 <!--
  ```diff
